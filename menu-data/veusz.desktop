@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=veusz
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Veusz
+GenericName=Scientific plotting
+Comment=For graphing and manipulation of scientific data
+MimeType=application/x-veusz;
+# veusz can open .vsz files
+Exec=veusz %F
+Icon=veusz
+Terminal=false
+Type=Application
+Categories=Graphics;

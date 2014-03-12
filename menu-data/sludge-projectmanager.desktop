@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=sludge-devkit
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Version=1.0
+Name=SLUDGE Project Manager
+Comment=Manage and compile SLUDGE projects
+Comment[de]=SLUDGE-Projekte verwalten und kompilieren
+MimeType=text/x-sludge-project
+Exec=sludge-projectmanager %f
+Icon=sludge-projectmanager
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Development;IDE;GTK

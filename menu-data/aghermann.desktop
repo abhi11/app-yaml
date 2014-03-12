@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=aghermann
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.6.0.1
+Name=Aghermann
+GenericName=Sleep research experiment manager
+Comment=Manage EEG recordings, view and score EDF files, and simulate Process S
+Icon=aghermann.png
+Exec=aghermann
+Terminal=false
+Categories=Education;Science;MedicalSoftware;GTK

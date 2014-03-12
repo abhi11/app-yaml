@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=open-axiom
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=OpenAxiom
+Type=Application
+Comment=Open scientific computation platform
+Comment[ru]=Универсальная система компьютерной алгебры
+Exec=open-axiom
+Icon=open-axiom
+Categories=Science;Education;Math;
+Terminal=true
+X-AppInstall-Architectures=amd64,i386,kfreebsd-amd64

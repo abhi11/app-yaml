@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=cssed
+X-AppInstall-Popcon=77
+X-AppInstall-Section=main
+
+Name=Cssed Editor
+Name[en]=Cssed Editor
+Name[es]=Editor Cssed
+Comment=Css and Web Development Editor
+Exec=cssed
+Icon=cssed
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Development;
+

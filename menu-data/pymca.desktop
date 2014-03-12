@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=pymca
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Name=PyMCA
+Name[en_GB]=PyMCA
+GenericName=X-ray Fluorescence Data-Analysis
+GenericName[en_GB]=X-ray Fluorescence Data-Analysis
+Comment=Analyse X-ray Fluorescence data
+Type=Application
+Exec=pymca
+Icon=_usr_share_pixmaps_pymca
+Terminal=false
+Categories=Science;Education;Physics;
+

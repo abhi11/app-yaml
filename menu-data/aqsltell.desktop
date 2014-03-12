@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=aqsis
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Aqsis Shader Inspector
+GenericName=RenderMan Shader Inspector
+Comment=Inspect compiled RenderMan Shading Language (RSL) files
+Icon=aqsis
+Exec=/usr/share/aqsis/scripts/aqsltell.sh %F
+Terminal=true
+MimeType=application/x-slx;
+Categories=Graphics;3DGraphics;ConsoleOnly;

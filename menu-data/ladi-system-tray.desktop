@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=laditools
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=LADI System Tray
+Type=Application
+Comment=Manage and configure JACK and ladish
+Comment[it]=Amministra e configura JACK e ladish
+Terminal=false
+Exec=ladi-system-tray
+Icon=laditools
+Categories=GNOME;GTK;AudioVideo;
+GenericName=LADI tray icon

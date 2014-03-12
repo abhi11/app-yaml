@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fracplanet
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.4.0
+Name=Fracplanet
+Exec=fracplanet
+Terminal=false
+Categories=Graphics;2DGraphics;
+Comment=Interactive fractal planet generator
+X-AppInstall-Architectures=amd64,armel,armhf,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,s390x,sparc

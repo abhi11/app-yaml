@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=torus-trooper
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Type=Application
+Name=Torus Trooper
+GenericName=
+Comment=Kenta Cho's Torus Trooper
+Icon=torus-trooper
+Exec=torus-trooper
+Terminal=false
+Categories=Game;ArcadeGame;

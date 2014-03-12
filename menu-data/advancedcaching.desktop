@@ -1,0 +1,18 @@
+
+[Desktop Entry]
+X-AppInstall-Package=agtl
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Name=AGTL Geocaching Tool
+Comment=Advanced Geocaching Tool For Linux
+Encoding=UTF-8
+Version=0.0
+Type=Application
+Exec=/usr/bin/agtl --simple
+Icon=advancedcaching
+Terminal=false
+Categories=Office;Geography;
+StartupNotify=true
+Comment[de_DE.UTF-8]=Ein Geocaching-Werkzeug
+Name[de_DE]=AGTL Geocaching-Werkzeug

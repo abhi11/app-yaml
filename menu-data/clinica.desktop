@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=clinica
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Categories=Application;GTK;
+Name=Clinica
+Comment=Medical records manager
+Exec=clinica
+Icon=clinica
+Terminal=false

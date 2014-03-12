@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+X-AppInstall-Package=x-tile
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Name=X Tile
+Comment=Tile the Windows Upon your X Desktop
+Exec=x-tile
+Icon=_usr_share_pixmaps_x-tile
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Utility;
+Name[en_US]=x-tile

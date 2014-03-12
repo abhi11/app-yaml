@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=fuse-emulator-gtk
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Categories=Game;Emulator;GNOME;GTK;Application;
+Name=Fuse Spectrum Emulator (GTK+ version)
+Exec=/usr/bin/fuse-gtk
+Icon=fuse

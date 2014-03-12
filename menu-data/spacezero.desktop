@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=spacezero
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Spacezero
+Name[en_GB]=Spacezero
+Name[es]=Spacezero
+Comment=Real Time Strategy 2D space combat multiplayer net game.
+Comment[en_GB]=Real Time Strategy 2D space combat multiplayer net game.
+Comment[es]=Juego de estrategia 2D en tiempo real multijugador.
+Categories=Game;StrategyGame;
+Exec=/usr/games/spacezero
+Icon=_usr_share_pixmaps_icon_spacezero
+Terminal=false
+Type=Application
+Version=1.0

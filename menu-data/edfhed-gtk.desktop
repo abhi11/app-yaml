@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=aghermann
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Type=Application
+Version=0.6.0.1
+Name=Edfhed
+GenericName=EDF file header editor
+Comment=EDF file header editor
+Exec=edfhed-gtk
+Terminal=false
+Categories=Education;Science;MedicalSoftware;GTK
+MimeType=application/x-edf

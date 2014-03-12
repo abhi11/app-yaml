@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=daemonfs
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Type=Application
+Icon=daemonfs
+Exec=daemonfs
+Comment=Real time monitoring software
+Name=DaemonFS
+Categories=System;Filesystem;
+StartupNotify=true

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gjacktransport
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Type=Application
+Name=G. JACK Clock
+GenericName=JACK transport Big Clock
+Comment=Display JACK transport timecode
+Icon=gjackclock
+Exec=gjackclock
+Terminal=false
+Categories=AudioVideo;Utility;

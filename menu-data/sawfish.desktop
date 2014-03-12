@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=sawfish
+X-AppInstall-Popcon=157
+X-AppInstall-Section=main
+
+Name=Sawfish
+Name[el]=Πριονόψαρο (Sawfish)
+
+Type=Application
+Exec=sawfish
+
+Terminal=false
+
+X-GNOME-WMName=Sawfish
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=true

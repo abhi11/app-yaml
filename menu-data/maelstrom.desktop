@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=maelstrom
+X-AppInstall-Popcon=45
+X-AppInstall-Section=main
+
+Type=Application
+Name=Maelstrom
+GenericName=Ambrosia Maelstrom
+Comment=Play an Asteroids like game
+Icon=_usr_lib_games_maelstrom_icon32
+Exec=/usr/games/maelstrom
+Terminal=false
+Categories=Game;ArcadeGame;

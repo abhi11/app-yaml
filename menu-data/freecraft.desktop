@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=freecraft
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Name=FreeCraft
+GenericName=freecraft
+Comment=The War begins
+Type=Application
+Exec=freecraft
+Icon=_usr_share_pixmaps_freecraft-icon
+Terminal=false
+Categories=Game;StrategyGame;
+

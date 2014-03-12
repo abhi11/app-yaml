@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=phlipple
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Phlipple
+Comment=Phlipping squares will never be the same again
+Exec=phlipple
+Categories=Game;LogicGame;
+Icon=phlipple
+MimeType=

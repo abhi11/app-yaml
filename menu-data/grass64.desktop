@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=grass
+X-AppInstall-Popcon=263
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=GRASS GIS
+Comment=
+Categories=Application;Education;Geography;
+Exec=grass64
+Icon=grass64
+Terminal=true
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

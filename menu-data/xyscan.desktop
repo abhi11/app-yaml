@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=xyscan
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=XYscan
+Comment=grabbing data from printed plots
+Comment[fr_FR]=récupération de données depuis des graphiques imprimés
+GenericName=unplotter
+GenericName[fr_FR]=dégrapheur
+Exec=xyscan
+Icon=xyscanIcon.png
+Terminal=false
+StartupNotify=true
+Categories=Science;Education

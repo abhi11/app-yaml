@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=hplip-gui
+X-AppInstall-Popcon=2095
+X-AppInstall-Section=main
+
+Name=HPLIP Toolbox
+GenericName=Printer Toolbox
+Comment=HP Printing System Control Center
+Exec=sh -c 'STARTED_FROM_MENU=yes /usr/bin/hp-toolbox'
+Icon=_usr_share_pixmaps_HPmenu
+Categories=Application;Settings;
+Terminal=false
+Type=Application
+StartupNotify=false
+NotShowIn=KDE;

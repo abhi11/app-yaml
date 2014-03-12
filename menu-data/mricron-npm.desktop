@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=mricron
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+GenericName=Non-parametric MRI Analysis
+Name=NPM
+Exec=mricron-npm
+Type=Application
+Terminal=false
+Categories=Education;Graphics;Science;MedicalSoftware;GTK;
+Icon=mricron.xpm
+X-AppInstall-Architectures=amd64,armel,armhf,i386,powerpc,sparc

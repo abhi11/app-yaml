@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=ll-scope
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Name=Oscilloscope
+Comment=An oscilloscope DSSI plugin
+Exec=jack-dssi-host ll-scope.so
+Icon=_usr_lib_dssi_ll-scope_icon
+Terminal=false
+Type=Application
+Categories=GNOME;AudioVideo;Audio;

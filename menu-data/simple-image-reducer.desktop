@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=simple-image-reducer
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=Simple Image Reducer
+Name[ru]=Простой преобразователь изображений
+Name[uk]=Простий перетворювач зображень
+Comment=Reduce and rotate images in three-four clicks.
+Comment[ru]=Уменьшает и поворачивает изображения в три-четыре клика.
+Comment[uk]=Зменшення і обертання зображень в три-чотири клацання.
+Exec=simple-image-reducer %U
+Icon=simple-image-reducer.png
+Terminal=false
+Type=Application
+Categories=Graphics;2DGraphics;RasterGraphics;GTK;
+MimeType=image/bmp;image/gif;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-tga;image/x-xbitmap;image/tiff;image/jpeg;image/png;

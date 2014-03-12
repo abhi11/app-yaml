@@ -1,0 +1,24 @@
+[Desktop Entry]
+X-AppInstall-Package=mc
+X-AppInstall-Popcon=12592
+X-AppInstall-Section=main
+
+Name=Midnight Commander
+Name[af]=Middernag Kommandeur
+Name[eo]=Meznokta komandanto
+Name[fa]=فرمان‌دار نیمه شب
+Name[ko]=미드나잇 커멘더
+Name[lv]=Pusnakts Komandieris
+Name[nso]=Molaedi wa Bosegogare
+Name[th]=มิดไนท์คอมมานเดอร์
+Name[ve]=Muhulwane wa vhukati ha vhusiku
+Name[xh]=Umyaleli Waphakathi kobusuku
+Name[zu]=Umyaleli waphakathi nobusuku
+Comment=File manager
+Comment[pl]=Menedżer plików
+Exec=mc
+Icon=MidnightCommander
+Terminal=true
+Type=Application
+Categories=ConsoleOnly;Utility;FileManager;
+# vi: encoding=utf-8

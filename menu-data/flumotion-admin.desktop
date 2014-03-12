@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=flumotion
+X-AppInstall-Popcon=17
+X-AppInstall-Section=main
+
+Name=Flumotion Streaming Server Administration
+GenericName=Streaming Server Administration
+Comment=Manage the Flumotion Streaming Server
+Exec=flumotion-admin
+Terminal=false
+Type=Application
+Icon=flumotion.png
+Categories=GNOME;GTK;AudioVideo;Player;X-Ximian-Main;X-Red-Hat-Base;

@@ -1,0 +1,14 @@
+# Forwarded to http://sf.net/support/tracker.php?aid=2672143
+[Desktop Entry]
+X-AppInstall-Package=between
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Type=Application
+Name=Between
+GenericName=Consciousness and isolation game
+Comment=game about consciousness and isolation
+Icon=between
+Exec=between
+Terminal=false
+Categories=Game;AdventureGame;

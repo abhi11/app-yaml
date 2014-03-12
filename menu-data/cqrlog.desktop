@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=cqrlog
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=CQRLOG
+Comment=Advanced logging program for hamradio operators
+Exec=cqrlog
+Terminal=false
+Type=Application
+Icon=cqrlog.png
+Categories=Utility;Database;HamRadio
+
+X-AppInstall-Architectures=amd64,i386,powerpc,sparc

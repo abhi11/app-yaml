@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=maitreya
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=Maitreya6
+Comment=Astrology Software
+Exec=maitreya6
+Icon=maitreya
+GenericName=Maitreya
+Terminal=false
+Type=Application
+Categories=Education;Science;Astronomy;

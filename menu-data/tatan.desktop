@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=tatan
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Type=Application
+Name=Tatan
+GenericName=
+Comment=HIZ's Tatan
+Icon=tatan
+Exec=tatan
+Terminal=false
+Categories=Game;ArcadeGame;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=gdigi
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=gdigi
+Exec=gdigi
+Categories=GNOME;Audio;AudioVideo;
+
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

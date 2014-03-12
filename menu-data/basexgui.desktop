@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=basex
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=BaseX XML Database
+Comment=Visually query and analyse your XML data
+Exec=basexgui %F
+Icon=basex
+MimeType=text/xml;
+Categories=Development;Utility;Database;
+StartupNotify=true
+StartupWMClass=org-basex-BaseXGUI

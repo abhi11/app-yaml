@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=xye
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Xye
+Exec=xye
+Type=Application
+Comment=Get all the gems in the room
+Categories=Game;LogicGame;

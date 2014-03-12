@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gjots2
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Gjots2 Jotter
+Comment=Store and organise your random notes
+Exec=gjots2
+Terminal=false
+Type=Application
+Icon=gjots.png
+Categories=GNOME;Application;Utility;

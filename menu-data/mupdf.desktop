@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=mupdf
+X-AppInstall-Popcon=332
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=MuPDF
+GenericName=PDF file viewer
+Comment=PDF file viewer
+Exec=mupdf %f
+Icon=mupdf
+Terminal=false
+Type=Application
+MimeType=application/pdf;application/x-pdf;
+Categories=Viewer;Graphics;
+
+[Desktop Action View]
+Exec=mupdf %f

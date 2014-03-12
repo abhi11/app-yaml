@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=blockout2
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Type=Application
+Name=BlockOut II
+Comment=Play a 3D Tetris game
+Icon=_usr_share_games_blockout2_icon
+Exec=blockout2
+Terminal=false
+Categories=Game;BlocksGame;

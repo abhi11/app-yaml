@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=python2.7
+X-AppInstall-Popcon=18726
+X-AppInstall-Section=main
+
+Name=Python (v2.7)
+Comment=Python Interpreter (v2.7)
+Exec=/usr/bin/python2.7
+Icon=_usr_share_pixmaps_python2.7
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=true

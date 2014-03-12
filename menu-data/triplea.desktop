@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=triplea
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=TripleA
+Comment=Turn based strategy game
+Exec=triplea
+Icon=triplea
+Categories=Game;StrategyGame;BoardGame;

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=stretchplayer
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=StretchPlayer
+Comment=Audio file player with time stretch
+Exec=stretchplayer
+Icon=_usr_share_stretchplayer_icons_stretchplayer-icon-48x48
+Terminal=false
+MimeType=application/x-stretchplayer;
+Type=Application
+Categories=AudioVideo;Audio;X-Sound;X-Jack;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

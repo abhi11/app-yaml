@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=vavoom
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Name=Vavoom
+GenericName=Doom Launcher
+Comment=First Person Shooter Game
+Exec=/usr/games/vlaunch
+Icon=_usr_share_games_vavoom_vavoom
+Terminal=false
+Type=Application
+Categories=Game;ActionGame;
+

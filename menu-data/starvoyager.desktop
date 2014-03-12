@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=starvoyager
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=Star Voyager
+GenericName=
+Comment=
+Icon=_usr_share_pixmaps_starvoyager
+Exec=/usr/games/starvoyager
+Terminal=false
+Categories=Application;Game;ArcadeGame;

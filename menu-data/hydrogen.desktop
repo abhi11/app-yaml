@@ -1,0 +1,30 @@
+[Desktop Entry]
+X-AppInstall-Package=hydrogen
+X-AppInstall-Popcon=195
+X-AppInstall-Section=main
+
+Name=Hydrogen
+Comment=Create drum sequences
+Comment[de]=Schlagzeugsequenzen erstellen
+Comment[ru]=Создание партий ударных инструментов
+Comment[hu]=Dobszekvenciákat lehet vele készíteni
+Comment[tr]=Davul partisyonu yaz
+
+GenericName=Drum Machine
+GenericName[de]=Drumsequencer
+GenericName[ru]=Драм-машина
+GenericName[tr]=Davul Makinası
+
+Version=1.0
+
+Type=Application
+Categories=AudioVideo;Audio;Qt;
+
+MimeType=text/xml;
+
+Exec=hydrogen %F
+Terminal=false
+StartupNotify=true
+
+Icon=h2-icon
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

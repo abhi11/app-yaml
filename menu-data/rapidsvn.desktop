@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=rapidsvn
+X-AppInstall-Popcon=258
+X-AppInstall-Section=main
+
+Version=1.0
+Name=RapidSVN
+GenericName=Subversion Client
+Comment=A GUI Client for Subversion
+Type=Application
+Exec=rapidsvn
+Icon=rapidsvn
+Categories=Development;

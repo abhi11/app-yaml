@@ -1,0 +1,22 @@
+[Desktop Entry]
+X-AppInstall-Package=clam-chordata
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Name=CLAM Chordata
+GenericName=Chord detector
+Comment=MP3/OGG/Wav songs chord analyser
+Icon=/usr/share/pixmaps/clam-chordata.xpm
+Type=Application
+Categories=Application;AudioVideo;Audio;Music;Qt
+Exec=chordata
+Terminal=false
+MimeType=application/ogg;audio/basic;audio/mpeg;audio/x-aiff;audio/x-mp3;audio/x-wav;
+
+[Desktop Action Edit]
+Exec=chordata %f
+Name=Analize chords (Chordata)
+
+
+
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

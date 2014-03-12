@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=lebiniou
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Name=Le Biniou
+GenericName=Le Biniou
+Comment=Displays images that evolve with sound
+Exec=lebiniou
+Icon=_usr_share_pixmaps_lebiniou
+Categories=AudioVideo
+Terminal=true
+Type=Application

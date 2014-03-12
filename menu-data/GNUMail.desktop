@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gnumail.app
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Name=GNUMail
+Name[bg]=Пощенски клиент (GNUMail)
+Comment=Mail client for GNUstep
+Comment[bg]=Пощенски клиент за GNUstep
+Version=1.0
+Type=Application
+Categories=Network;Email;
+Icon=_usr_share_GNUstep_GNUMail.app_GNUMail
+Exec=GNUMail

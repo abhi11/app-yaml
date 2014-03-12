@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=enna
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Type=Application
+Name=Enna
+GenericName=Media Center
+Comment=EFL Multimedia Center
+Icon=enna
+Exec=enna
+Terminal=false
+Categories=X-ENLIGHTENMENT;AudioVideo;Player;
+StartupWMClass=enna
+X-AppInstall-Architectures=amd64,armel,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,s390x,sparc

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=smc
+X-AppInstall-Popcon=85
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Secret Maryo Chronicles
+GenericName=Platform Game
+Comment=A 2D platform game with style similar to classic sidescroller games
+Comment[de]=Ein 2D-Plattformspiel, vom Stil her ähnlich klassischen seitlaufenden Spielen
+Exec=smc
+Icon=smc
+Categories=Game;

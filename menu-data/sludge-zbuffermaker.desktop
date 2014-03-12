@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=sludge-devkit
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Version=1.0
+Name=SLUDGE Z-Buffer Maker
+Comment=Edit SLUDGE z-buffer files
+Comment[de]=SLUDGE-Z-Buffer-Dateien bearbeiten
+MimeType=application/x-sludge-zbuffer
+Exec=sludge-zbuffermaker %f
+Icon=sludge-zbuffermaker
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Development;IDE;GTK

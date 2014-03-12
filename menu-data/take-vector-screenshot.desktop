@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gtk-vector-screenshot
+X-AppInstall-Popcon=123
+X-AppInstall-Section=main
+
+Name=Take Vector Screenshot
+Comment=Save vector images of application windows
+Exec=take-vector-screenshot
+Terminal=false
+Type=Application
+Icon=camera
+# StartupNotify=true
+Categories=GTK;GNOME;Utility;
+NotShowIn=KDE;

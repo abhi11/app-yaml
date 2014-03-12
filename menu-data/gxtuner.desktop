@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gxtuner
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Type=Application
+Name=Gxtuner
+GenericName=Tuner
+Comment=Simple Tuner Interface for jack
+Icon=gxtuner32x32
+Exec=gxtuner
+Terminal=false
+Categories=AudioVideo;X-Jack;Midi;X-MIDI;

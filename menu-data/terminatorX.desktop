@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=terminatorx
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Exec=terminatorX
+Name=terminatorX
+GenericName=Virtual Turntable
+Comment=Scratch and mix audio
+Terminal=false
+Type=Application
+Icon=terminatorX-app
+Categories=AudioVideo;
+StartupNotify=true

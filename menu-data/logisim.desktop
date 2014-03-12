@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=logisim
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Name=Logisim
+Comment=Graphical tool for designing and simulating logic circuits
+Exec=logisim
+Icon=logisim-icon-128
+Terminal=false
+Type=Application
+Categories=Education;Science;ComputerScience;Java;

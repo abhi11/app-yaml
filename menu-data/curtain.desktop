@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=curtain
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Version=0.2
+Type=Application
+Name=Curtain
+GenericName=Show and move a curtain
+Comment=Show and move a curtain on the desktop
+Comment[it]=Mostra e sposta una tendina sulla scrivania
+Comment[es]=Muestra y mueve una cortina sobre el escritorio
+Exec=curtain %U
+Icon=curtain.xpm
+Terminal=false
+Categories=GNOME;GTK;Utility;
+StartupNotify=true

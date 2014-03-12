@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=openyahtzee
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Type=Application
+Name=Open Yahtzee
+GenericName=Yahtzee
+Comment=The classic dice game Yahtzee
+Exec=openyahtzee
+Icon=openyahtzee
+Terminal=false
+Categories=Game;BoardGame;

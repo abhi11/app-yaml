@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=showq
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Type=Application
+Name=ShowQ
+GenericName=ShowQ
+Comment=MIDI controllable audio player
+Icon=showq_32x32
+Exec=showq
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;Music;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

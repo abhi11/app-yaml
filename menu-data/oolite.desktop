@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=oolite
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Name=Oolite
+Comment=An OpenGL Elite-like space game
+Exec=oolite
+Icon=oolite-icon
+Terminal=false
+Type=Application
+Categories=Game;Simulation;

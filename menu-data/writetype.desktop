@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=writetype
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Name=Writetype
+GenericName=WriteType
+Comment=A word processor to make typing easier
+Comment[es]=Un procesador de textos que hace más fácil escribir
+Exec=writetype
+Icon=_usr_share_writetype_res_key120x120
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Application;Utility;TextEditor;Education;Qt
+MimeType=application/x-writetype;

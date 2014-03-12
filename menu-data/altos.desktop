@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=altos
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Type=Application
+Name=AltOS UI
+GenericName=Altus Metrum Ground Station
+Comment=View and log downlink data from Altus Metrum products
+Icon=_usr_share_pixmaps_altusmetrum
+Exec=/usr/bin/altosui %f
+Terminal=false
+MimeType=text/plain;
+Categories=Education;Electronics;Science;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mipsel,powerpc,s390,s390x,sparc

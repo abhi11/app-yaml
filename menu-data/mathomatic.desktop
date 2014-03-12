@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=mathomatic
+X-AppInstall-Popcon=73
+X-AppInstall-Section=main
+
+Name=Mathomatic
+GenericName=Computer Algebra System
+Comment=Do symbolic mathematics and quick calculations
+Exec=mathomatic
+Icon=mathomatic
+Terminal=true
+Type=Application
+Categories=Education;Science;Math;
+StartupNotify=false

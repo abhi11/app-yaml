@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=photofilmstrip
+X-AppInstall-Popcon=27
+X-AppInstall-Section=main
+
+Version=1.9.0
+Name=PhotoFilmStrip
+GenericName=Slideshow Creator
+Comment=Create animated slideshows
+Exec=photofilmstrip
+Icon=photofilmstrip
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=AudioVideo;

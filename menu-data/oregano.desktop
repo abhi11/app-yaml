@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=oregano
+X-AppInstall-Popcon=88
+X-AppInstall-Section=main
+
+Name=Oregano
+Name[fr]=Oregano
+GenericName=Electrical Engineering Tool
+GenericName[fr]=Outil d'ingéniérie éléctrique
+Comment=Schematic, capture and simulation of electronic circuits
+Comment[fr]=Permet de saisir et de simuler des circuits éléctroniques.
+Exec=oregano %F
+Icon=gnome-oregano.svg
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=GNOME;GTK;Science;Education;Physics;
+Encoding=UTF-8
+StartupNotify=true
+MimeType=application/x-oregano;

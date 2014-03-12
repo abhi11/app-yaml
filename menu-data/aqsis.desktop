@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=aqsis
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Aqsis Renderer
+GenericName=RenderMan Renderer
+Comment=Render RenderMan Interface Bytestream (RIB) files
+Icon=aqsis
+Exec=/usr/share/aqsis/scripts/aqsis.sh %f
+Terminal=true
+MimeType=model/x-rib;model/x-rib-gzip;
+Categories=Graphics;3DGraphics;ConsoleOnly;

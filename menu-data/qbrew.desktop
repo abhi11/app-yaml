@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=qbrew
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=QBrew
+Comment=Homebrewer's recipe calculator
+Comment[de]=Rezeptrechner für Bierbrauer
+Exec=qbrew
+Icon=qbrew_32x32
+Categories=Utility;Qt;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=mkvtoolnix-gui
+X-AppInstall-Popcon=279
+X-AppInstall-Section=main
+
+Type=Application
+Name=mkvinfo
+GenericName=Show information about MKV files
+GenericName[de]=Informationen über MKV-Dateien anzeigen
+GenericName[es]=Mostrar información sobre ficheros MKV
+GenericName[zh_CN]=显示 MKV 文件的信息
+GenericName[zh_TW]=顯示 MKV 檔資訊
+Icon=mkvinfo
+Exec=mkvinfo -g
+Terminal=false
+MimeType=video/x-matroska;audio/x-matroska;
+Categories=AudioVideo;AudioVideoEditing;
+InitialPreference=-1

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=sgt-puzzles
+X-AppInstall-Popcon=228
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Exec=signpost
+Icon=signpost
+Type=Application
+Categories=Game;LogicGame;
+Name=Signpost
+Comment=Link the squares of a grid according to the arrows on them
+Comment[de]=Verbinde die Quadrate eines Gitter gemäß den Pfeilen darauf

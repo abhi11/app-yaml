@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=minetest
+X-AppInstall-Popcon=41
+X-AppInstall-Section=main
+
+Name=Minetest
+GenericName=Minetest
+Comment=InfiniMiner/Minecraft-inspired open game world
+Exec=minetest
+Icon=minetest
+Terminal=false
+Type=Application
+Categories=Game;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x

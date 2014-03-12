@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=kbibtex
+X-AppInstall-Popcon=251
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=KBibTeX
+Name[de]=KBibTeX
+Comment=KDE-based editor for bibliographic files
+Comment[de]=KDE-basierter Editor für Bibliographiedateien
+GenericName=BibTeX Editor
+GenericName[de]=BibTeX-Editor
+Icon=kbibtex
+Exec=kbibtex -caption "%c" %U
+Type=Application
+Terminal=false
+X-KDE-StartupNotify=true
+# TODO X-DBUS-StartupType=Multi
+# TODO X-DBUS-ServiceName=org.kde.kbibtex
+Categories=Qt;KDE;Office;Database;Science;Literature;
+MimeType=text/x-bibtex;application/x-research-info-systems;

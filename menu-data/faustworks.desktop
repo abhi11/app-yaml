@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=faustworks
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Type=Application
+Name=FaustWorks
+GenericName=IDE for Faust
+Comment=IDE for Faust dsp programming language
+Icon=faustworks
+Exec=FaustWorks 
+Terminal=false
+Categories=Development;Audio;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

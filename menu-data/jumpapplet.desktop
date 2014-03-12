@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=jumpapplet
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Autojump applet
+Comment=Quickly jump to frequently used directories
+Comment[fr]=Aller rapidement dans les répertoires souvent utilisés
+Icon=jumpapplet
+Exec=jumpapplet
+Type=Application
+Terminal=false
+Categories=Utility;Filesystem;

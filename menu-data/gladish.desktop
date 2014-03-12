@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=gladish
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=gladish
+Comment=LADI Session Handler
+Comment[fr]=Gestionnaire de session LADI
+Comment[pt]=Gerenciador de Sessões LADI
+Comment[pt_BR]=Gerenciador de Sessões LADI
+Comment[ru]=Управление сеансами LADI
+GenericName=LADI Session Handler
+GenericName[fr]=Gestionnaire de session LADI
+GenericName[pt]=Gerenciador de Sessões LADI
+GenericName[pt_BR]=Gerenciador de Sessões LADI
+GenericName[ru]=Управление сеансами LADI
+Type=Application
+Terminal=false
+Exec=gladish
+Icon=gladish
+Categories=AudioVideo;Audio;GNOME;

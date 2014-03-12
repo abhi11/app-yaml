@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=latexila
+X-AppInstall-Popcon=122
+X-AppInstall-Section=main
+
+Name=LaTeXila
+GenericName=Integrated LaTeX Environment
+GenericName[fr]=Environnement LaTeX intégré
+GenericName[it]=Ambiente Integrato per LaTeX
+Comment=Edit LaTeX documents
+Comment[fr]=Éditer des documents LaTeX
+Comment[it]=Editor per documenti LaTeX
+Exec=latexila
+Icon=latexila
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Office;Publishing;
+MimeType=text/x-tex;

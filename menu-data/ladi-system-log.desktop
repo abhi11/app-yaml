@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=laditools
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=LADI Log File Viewer
+Name[it]=Visualizzatore di registri LADI
+Type=Application
+Comment=View or monitor LADI log files
+Comment[it]=Visualizza o monitora i file di registro LADI
+Terminal=false
+Exec=ladi-system-log
+Icon=ladi-system-log
+Categories=GNOME;GTK;Settings;
+GenericName=Log file viewer
+GenericName[it]=Visualizzatore di file di registro

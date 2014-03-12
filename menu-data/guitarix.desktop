@@ -1,0 +1,17 @@
+
+[Desktop Entry]
+X-AppInstall-Package=guitarix
+X-AppInstall-Popcon=107
+X-AppInstall-Section=main
+
+Name=guitarix
+Name[fr]=Guitarix
+GenericName=Mono Amplifier
+GenericName[fr]=Ampli mono
+Comment=Simple mono amplifier simulation
+Comment[fr]=simulation d'ampli mono simple
+Exec=guitarix
+Icon=gx_head
+Categories=AudioVideo;X-Jack;Midi;X-MIDI;
+Terminal=false
+Type=Application

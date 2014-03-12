@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=sludge-devkit
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Version=1.0
+Name=SLUDGE Sprite Bank Editor
+Comment=Edit SLUDGE sprite banks
+Comment[de]=SLUDGE-Spritesammlungen bearbeiten
+MimeType=application/x-sludge-spritebank
+Exec=sludge-spritebankeditor %f
+Icon=sludge-spritebankeditor
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Development;IDE;GTK

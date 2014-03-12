@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=openjdk-7-jre
+X-AppInstall-Popcon=610
+X-AppInstall-Section=main
+
+Name=OpenJDK Java 7 Policy Tool
+Name[fi]=OpenJDK Java 7 - käytäntötyökalu
+Comment=OpenJDK Java 7 Policy Tool
+Comment[fi]=OpenJDK Java 7 - käytäntötyökalu
+Exec=/usr/bin/policytool
+Terminal=false
+Type=Application
+Icon=openjdk-7
+Categories=Settings;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

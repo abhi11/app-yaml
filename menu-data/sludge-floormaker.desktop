@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=sludge-devkit
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Version=1.0
+Name=SLUDGE Floor Maker
+Comment=Edit SLUDGE floor plans
+Comment[de]=SLUDGE-Bodenpläne bearbeiten
+MimeType=text/x-sludge-floor
+Exec=sludge-floormaker %f
+Icon=sludge-floormaker
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Development;IDE;GTK

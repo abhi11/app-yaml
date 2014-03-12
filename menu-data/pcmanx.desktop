@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=pcmanx-gtk2
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Categories=GTK;Network;News;Chat;InstantMessaging
+Name=PCManX BBS Client
+Name[zh_TW]=PCManX BBS 連線軟體
+Name[zh_CN]=PCManX BBS 连线软件
+Exec=pcmanx
+Icon=_usr_share_pixmaps_pcmanx
+Type=Application
+Terminal=false
+GenericName=PCManX BBS Client
+GenericName[zh_TW]=PCManX BBS 連線軟體
+GenericName[zh_CN]=PCManX BBS 连线软件
+Comment=PCManX BBS Client
+Comment[zh_TW]=PCManX BBS 用 GTK+ 2.x 開發的自由 BBS 連線軟體
+Comment[zh_CN]=PCManX BBS 用 GTK+ 2.x 开发的自由 BBS 连接软件
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

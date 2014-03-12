@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=sludge-devkit
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Version=1.0
+Name=SLUDGE Translation Editor
+Comment=Edit SLUDGE translation files
+Comment[de]=SLUDGE-Übersetzungsdateien bearbeiten
+MimeType=text/x-sludge-translation
+Exec=sludge-translationeditor %f
+Icon=sludge-translationeditor
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Development;IDE;GTK

@@ -1,0 +1,23 @@
+[Desktop Entry]
+X-AppInstall-Package=openlp
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Categories=AudioVideo;
+Comment[de]=
+Comment=
+Exec=openlp %F
+GenericName[de]=Church lyrics projection
+GenericName=Church lyrics projection
+Icon=openlp
+MimeType=application/x-openlp-service;
+Name[de]=OpenLP
+Name=OpenLP
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

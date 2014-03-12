@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=qasmixer
+X-AppInstall-Popcon=65
+X-AppInstall-Section=main
+
+Type=Application
+Name=QasMixer
+GenericName=Sound volume mixer
+GenericName[de]=Klanglautstärkenregler
+Exec=qasmixer
+Icon=qasmixer
+StartupNotify=false
+Terminal=false
+Categories=AudioVideo;Audio;Mixer
+Comment=Graphical mixer application for the ALSA
+Comment[cs]=Grafický směšovač pro ALSA
+Comment[de]=Graphische Mixeranwendung für ALSA
+Comment[es]=Mezclador gráfico para ALSA
+Comment[ru]=Графический микшер для звуковой системы ALSA
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

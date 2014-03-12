@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=aliki
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Type=Application
+Name=Aliki (with JACK support)
+GenericName=Aliki
+Comment=Measurement tool for Impulse Responses
+Icon=aliki_32x32
+Exec=aliki -J
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;Music;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

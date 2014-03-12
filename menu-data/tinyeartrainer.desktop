@@ -1,0 +1,16 @@
+
+[Desktop Entry]
+X-AppInstall-Package=tinyeartrainer
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Tiny Ear Trainer
+GenericName=Ear Training Tools
+Comment=A tool to train your ears to hear relative pitch
+Icon=tinyeartrainer
+Type=Application
+Categories=Application;AudioVideo;
+Terminal=false
+Exec=tinyeartrainer
+Name[en_US]=Tiny Ear Trainer

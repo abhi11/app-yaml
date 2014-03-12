@@ -1,0 +1,29 @@
+[Desktop Entry]
+X-AppInstall-Package=ffdiaporama
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Movie creator ffDiaporama
+Name[fr]=Créateur de film ffDiaporama
+Name[it]=Movie creator ffDiaporama
+Name[es]=Creador de películas ffDiaporama
+Name[el]=Δημιουργός ταινιών ffDiaporama
+GenericName=Movie creator
+GenericName[fr]=Créateur de film
+GenericName[it]=Creatore di pellicole cinematografiche
+GenericName[es]=Creador de películas
+GenericName[el]=Δημιουργός ταινιών
+Comment=Movie creator from photos and video clips
+Comment[fr]=Créateur de film depuis des photos et des clips vidéo
+Comment[it]=Creatore di pellicole cinematografiche da foto e filmati video
+Comment[es]=Creador de películas a partir de fotos y clips de vídeo
+Comment[el]=Δημιουργός ταινιών από φωτογραφίες και βίντεο κλιπ
+Icon=_usr_share_ffDiaporama_application-ffDiaporama
+Terminal=false
+Type=Application
+Path=/usr/share/ffDiaporama
+Exec=/usr/bin/ffDiaporama %F
+MimeType=application/ffDiaporama;
+Categories=GTK;GNOME;Qt;KDE;AudioVideo;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,s390x

@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=gbatnav
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Name=Gnome Batalla Naval server
+Name[es]=Servidor Gnome del Batalla Naval
+Name[ja]=GNOME 海戦ゲーム (サーバ)
+Comment=Gnome Batalla Naval server
+Comment[es]=Servidor Gnome del Batalla Naval
+Comment[ja]=GNOME 海戦ゲーム (サーバ)
+Exec=/usr/games/gbnserver
+Icon=gnome-gbatnavd.png
+Terminal=0
+Type=Application
+Categories=GNOME;Game;StrategyGame;

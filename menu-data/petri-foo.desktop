@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=petri-foo
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Type=Application
+Name=Petri-foo
+GenericName=Petri-foo
+Comment=Sound Sampler
+Icon=petri-foo_32x32
+Exec=petri-foo
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;Music;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

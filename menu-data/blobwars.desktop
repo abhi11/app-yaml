@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=blobwars
+X-AppInstall-Popcon=58
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Categories=Game;ActionGame;
+Name=Blob Wars : Metal Blob Solid
+Comment=Mission and Objective based 2D Platform Game
+Icon=blobwars
+Exec=blobwars
+Terminal=false
+Type=Application

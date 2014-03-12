@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=proofgeneral
+X-AppInstall-Popcon=46
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=Proof General
+GenericName=Theorem proving environment
+Comment=Organise your proofs!
+Icon=proofgeneral.png
+Exec=proofgeneral %F
+Terminal=false
+Categories=Application;IDE;Development;TextEditor;Math
+StartupWMClass=Emacs

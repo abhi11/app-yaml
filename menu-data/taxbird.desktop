@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=taxbird
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+X-SuSE-translate=true
+Categories=Finance;Office
+Name=Taxbird
+GenericName=Taxbird
+Comment=freier Elster-Client für Linux
+Type=Application
+Exec=taxbird
+Icon=taxbird.xpm
+Terminal=false
+MimeType=application/x-taxbird
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=qtiplot
+X-AppInstall-Popcon=142
+X-AppInstall-Section=main
+
+Name=QtiPlot
+Comment=Analyze and plot scientific data
+Exec=qtiplot
+Terminal=false
+Type=Application
+Icon=qtiplot
+Categories=Education;Science;Math;Qt;
+StartupNotify=true

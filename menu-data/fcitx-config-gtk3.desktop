@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=fcitx-config-gtk
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Name=Fcitx Config Tool
+Comment=Fcitx GUI Config Tool
+Exec=fcitx-config-gtk3
+Icon=fcitx
+MimeType=
+Type=Application
+Categories=Settings;
+X-KDE-StartupNotify=false
+StartupNotify=false

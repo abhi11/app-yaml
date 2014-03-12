@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=tuxfootball
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=Tuxfootball
+Comment=2D Football Game
+Exec=tuxfootball
+# Icon=grisbi.png
+Terminal=false
+Categories=Application;Game;
+

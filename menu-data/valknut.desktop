@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=valknut
+X-AppInstall-Popcon=16
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Exec=valknut
+Icon=valknut
+Terminal=false
+Name=Valknut
+GenericName=Direct Connect client
+Comment=Share files over the Direct Connect network
+Categories=Network;FileTransfer;P2P;Qt;
+X-AppInstall-Architectures=amd64,armhf,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,s390x,sparc

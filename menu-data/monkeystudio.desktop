@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=monkeystudio
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Version=1.0
+Terminal=false
+Type=Application
+Name=Monkey Studio IDE
+Comment=The best cross platform IDE available!
+Exec=monkeystudio
+Icon=monkeystudio
+MimeType=text/*;inode/directory;
+Actions=Open;
+
+[Desktop Action Open]
+Exec=monkeystudio %F
+Name=Open With MkS
+

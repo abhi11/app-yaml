@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=freegish
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Version=1.0
+Name=FreeGish
+Comment=A physics based arcade game
+Type=Application
+Icon=freegish
+Terminal=false
+Exec=freegish
+Categories=Game;ArcadeGame;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

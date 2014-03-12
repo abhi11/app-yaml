@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=pymca
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Peakidentifier
+Name[en_GB]=Peakidentifier
+GenericName=Find the energy of X-ray spectral lines
+GenericName[en_GB]=Find the energy of X-ray spectral lines
+Type=Application
+Exec=peakidentifier
+Icon=_usr_share_pixmaps_pymca
+Terminal=false
+Categories=Science;Education;Physics;
+

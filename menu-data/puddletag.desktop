@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=puddletag
+X-AppInstall-Popcon=42
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=puddletag
+Exec=puddletag
+Icon=puddletag
+GenericName=Audio Tag Editor
+Categories=AudioVideo;Qt;

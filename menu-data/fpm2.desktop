@@ -1,0 +1,20 @@
+[Desktop Entry]
+X-AppInstall-Package=fpm2
+X-AppInstall-Popcon=80
+X-AppInstall-Section=main
+
+Name=Figaro's Password Manager 2
+Name[es]=Figaro's Password Manager 2
+Name[eu]=Figaroren Pasahitz Kudeatzailea 2
+Name[fr]=Gestionnaire de Mots de Passe de Figaro 2
+Name[hu]=Figaro Jelszó Kezelő 2
+Name[it]=Figaro's Password Manager 2
+Name[ru]=Figaro's Password Manager 2
+GenericName=Password Manager
+Comment=Manage passwords
+Exec=fpm2 %f
+Terminal=false
+StartupNotify=true
+Type=Application
+Icon=fpm2
+Categories=GTK;Utility;

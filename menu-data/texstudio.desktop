@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=texstudio
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Categories=Office;Publishing;
+Encoding=UTF-8
+Exec=texstudio
+GenericName=LaTeX Editor
+GenericName[fr]=Editeur LaTeX
+Comment=LaTeX development environment
+Comment[fr]=Environnement de développement LaTeX
+Icon=texstudio
+MimeType=text/x-tex;
+Name=TeXstudio
+StartupNotify=false
+Terminal=false
+Type=Application
+

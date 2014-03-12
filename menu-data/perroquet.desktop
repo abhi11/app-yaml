@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=perroquet
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Perroquet
+Name[es]=Loro
+Name[fr]=Perroquet
+Name[it]=Perroquet
+Name[sv]=Perroquet
+Comment=Oral comprehension teacher
+Comment[es]=Maestro de la comprensión oral
+Comment[fr]=Assistant à la compréhension orale
+Exec=perroquet
+Icon=perroquet
+MimeType=application/x-perroquet;
+Terminal=false
+Type=Application
+Categories=Application;Education;
+

@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=alsa-tools-gui
+X-AppInstall-Popcon=264
+X-AppInstall-Section=main
+
+Type=Application
+Name=Echomixer
+GenericName=
+Comment=Control Echoaudio soundcards
+Icon=alsa-tools
+Exec=echomixer
+Terminal=false
+Categories=AudioVideo;Audio;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

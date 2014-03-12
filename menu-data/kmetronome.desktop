@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=kmetronome
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=KMetronome
+Exec=kmetronome
+Icon=kmetronome
+Type=Application
+Comment=KDE MIDI Metronome Using ALSA Sequencer
+Comment[es]=Metrónomo MIDI de KDE utilizando el secuenciador ALSA
+Categories=AudioVideo;Audio;Midi;Education;Music;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

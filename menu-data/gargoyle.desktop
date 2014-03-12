@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gargoyle-free
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Gargoyle
+GenericName=Interactive Fiction interpreter
+Comment=Interactive Fiction multi-interpreter that supports all major IF formats
+Icon=gargoyle-house.png
+Exec=gargoyle-free
+Categories=Game;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

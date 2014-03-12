@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=weboob-qt
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=QBoobmsg
+Comment=Send and receive messages from various websites
+Exec=qboobmsg
+Icon=qboobmsg
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;Qt;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=tetraproc
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=Tetraproc
+GenericName=TetraProc
+Comment=Tetrahedral Microphone Processor for Ambisonic Recording
+Icon=
+Categories=AudioVideo;Audio;
+Exec=tetraproc
+Terminal=false

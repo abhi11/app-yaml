@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=qweborf
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=qweborf
+GenericName=qweborf
+Comment=Shares files using the HTTP protocol
+Comment[it]=Condivide file usando il protocollo HTTP
+Exec=qweborf
+Icon=network-wired
+Terminal=0
+Type=Application
+Categories=Network;

@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=supertuxkart
+X-AppInstall-Popcon=263
+X-AppInstall-Section=main
+
+Name=SuperTuxKart
+Version=1.0
+Icon=supertuxkart
+GenericName=A kart racing game
+GenericName[de]=Ein Kart-Rennspiel
+GenericName[fr]=Un jeu de karting
+GenericName[gl]=Xogo de carreiras con karts
+GenericName[ro]=Un joc de curse cu carturi
+Exec=supertuxkart --log=file
+Terminal=false
+StartupNotify=false
+Type=Application
+Categories=Game;ArcadeGame;

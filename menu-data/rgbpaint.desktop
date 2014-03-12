@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=rgbpaint
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Version=1.0
+Name=rgbPaint painting program
+Name[sv]=Rgbpaint, ett ritprogram
+GenericName=Painting program
+Comment=Simple painting program for pixel art
+Comment[sv]=Enkelt ritprogram för bildpunktsgrafik
+Type=Application
+Exec=rgbpaint
+Icon=rgbpaint
+Categories=Graphics;RasterGraphics;

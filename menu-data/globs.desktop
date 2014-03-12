@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=globs
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Name=Globs
+Comment=GL Open Benchmark Suite
+Icon=globs.png
+Exec=globs %F
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Application;System;3DGraphics;

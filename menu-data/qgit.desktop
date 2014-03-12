@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=qgit
+X-AppInstall-Popcon=156
+X-AppInstall-Section=main
+
+Name=qgit
+GenericName=git GUI viewer
+Exec=qgit
+Icon=qgit
+Type=Application
+Comment=git GUI viewer
+Terminal=false
+MimeType=inode/directory;
+Categories=Qt;Development;RevisionControl;

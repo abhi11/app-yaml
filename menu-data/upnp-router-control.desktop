@@ -1,0 +1,28 @@
+[Desktop Entry]
+X-AppInstall-Package=upnp-router-control
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Type=Application
+Name=UPnP Router Control
+Name[de]=UPnP Router Control
+Name[es]=UPnP Router Control
+Name[eu]=UPnP Router Kontrola
+Name[fr]=UPnP Router Control
+Name[it]=Controllo router UPnP
+Name[nl]=UPnP Router Control
+Name[pl]=UPnP Router Control
+Name[ru]=UPnP Router Control
+Comment=A simple program to manage UPnP IGD compliant routers
+Comment[de]=Ein einfaches Programm, um UPnP IGD-kompatible Router zu konfigurieren
+Comment[es]=Un simple programa para administrar routers compatibles con el protocolo UPnP IGD
+Comment[eu]=UPnP IGD-kin bateragarri diren router-ak kudeatzeko programa simplea
+Comment[fr]=Un programme simple permettant de gérer les fonctions UPnP IGD des routeurs.
+Comment[it]=Un semplice programma per gestire router compatibili con UPnP IGD
+Comment[nl]=Een eenvoudig programma om UPnP IGD-ondersteunde routers te beheren
+Comment[pl]=Program do zarządzanie routerami zgodnymi z UPnP IGD
+Comment[ru]=Простая программа для управления UPnP IGD-совместимыми маршрутизаторами
+Exec=upnp-router-control
+Icon=upnp-router-control
+Terminal=false
+Categories=Utility;

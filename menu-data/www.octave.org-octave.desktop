@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+X-AppInstall-Package=octave
+X-AppInstall-Popcon=248
+X-AppInstall-Section=main
+
+Name=GNU Octave
+Comment=Scientific Computing using GNU Octave
+Exec=/usr/bin/octave
+Icon=_usr_share_octave_3.6.2_imagelib_octave-logo
+Terminal=true
+Type=Application
+Categories=Development;Math;Science;
+StartupNotify=false
+X-Desktop-File-Install-Version=0.18

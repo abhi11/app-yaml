@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=virt-viewer
+X-AppInstall-Popcon=328
+X-AppInstall-Section=main
+
+Name=Remote Viewer
+Exec=remote-viewer %u
+Type=Application
+Terminal=False
+MimeType=x-scheme-handler/spice

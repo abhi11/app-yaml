@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=freediams
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Categories=Education;Science;
+Name=FreeDiams
+GenericName=Pharmaceutical Drugs Prescriptor
+Comment=Pharmaceutical Drugs Prescriptor
+Comment[en]=Pharmaceutical Drugs Prescriptor
+Comment[fr]=Prescripteur
+Exec=freediams
+Icon=freediams
+
+
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

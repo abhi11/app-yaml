@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=bokken
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Type=Application
+Name=Bokken
+Comment=Reverse engineering suite
+GenericName=Reverse engineering suite
+Icon=_usr_share_pyshared_bokken_ui_data_bokken
+Exec=bokken
+Categories=System;Security;

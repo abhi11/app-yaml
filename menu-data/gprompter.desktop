@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gprompter
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Name=gprompter
+GenericName=Predictive text editor
+Comment=Predictive text editor powered by presage
+Exec=gprompter
+Icon=gprompter
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Utility;Accessibility;

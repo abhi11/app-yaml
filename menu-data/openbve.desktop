@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=openbve
+X-AppInstall-Popcon=23
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=OpenBVE
+GenericName=Train simulator
+GenericName[de]=Zugsimulation
+Categories=Game;Simulation;
+Comment=Train/railway simulator compatible with 'BVE Trainsim' routes
+Terminal=false
+Exec=openbve
+Icon=openbve
+StartupNotify=false

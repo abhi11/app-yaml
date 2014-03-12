@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=sigviewer
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Name=SigViewer
+Version=1.0
+Comment=Viewer for biosignals such as EEG, EMG, and ECG. http://sigviewer.sf.net
+Exec=/usr/bin/sigviewer
+Icon=sigviewer128.png
+Type=Application
+Categories=Education;Science;

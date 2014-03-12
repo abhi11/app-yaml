@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=chmsee
+X-AppInstall-Popcon=235
+X-AppInstall-Section=main
+
+Name=ChmSee
+Comment=HTML Help(CHM) viewer
+Exec=chmsee %f
+Terminal=false
+Type=Application
+Icon=chmsee-icon
+StartupNotify=true
+Categories=Utility;
+MimeType=application/x-chm;

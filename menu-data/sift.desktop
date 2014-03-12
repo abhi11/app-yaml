@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=python-guiqwt
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Sift
+GenericName=Sift
+Comment=Signal and Image Filtering Tool (demo software based on guidata and guiqwt)
+Exec=sift
+MimeType=application/x-foo;
+Categories=Development;Science;Physics;

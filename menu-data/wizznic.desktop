@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=wizznic
+X-AppInstall-Popcon=25
+X-AppInstall-Section=main
+
+Type=Application
+Name=Wizznic
+Exec=wizznic
+Icon=wizznic
+Comment=A puzzle-block falling game.

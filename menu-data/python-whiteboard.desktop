@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=python-whiteboard
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Encoding=UTF-8
+Name=python-whiteboard
+Icon=pywb_pixmap.xpm
+Exec=/usr/bin/python-whiteboard
+Categories=Application;Education
+

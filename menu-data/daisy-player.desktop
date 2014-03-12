@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=daisy-player
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Daisy player
+Comment=Player for DAISY Books
+Exec=daisy-player %f
+Icon=daisy-player
+Terminal=true
+Type=Application
+Categories=AudioVideo;Audio;Accessibility;ConsoleOnly;
+GenericName=Player for DAISY Books
+GenericName[en]=Player for DAISY Books
+GenericName[de]=Spieler für DAISY Bücher
+GenericName[nl]=Speler voor DAISY boeken

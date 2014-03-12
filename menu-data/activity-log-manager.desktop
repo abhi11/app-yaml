@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=activity-log-manager
+X-AppInstall-Popcon=30
+X-AppInstall-Section=main
+
+Type=Application
+Name=Activity Log Manager
+GenericName=Activity Log Manager
+Comment=Configure what gets logged in your Zeitgeist activity log
+Exec=activity-log-manager
+Icon=activity-log-manager
+Categories=GTK;Utility;

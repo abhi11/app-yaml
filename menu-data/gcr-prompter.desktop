@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gcr
+X-AppInstall-Popcon=5861
+X-AppInstall-Section=main
+
+Name=Access Prompt
+Name[pl]=Zapytanie o hasło
+Comment=Unlock access to passwords and other secrets
+Comment[pl]=Odblokowanie dostępu do haseł
+Icon=security-medium
+Exec=/usr/lib/gcr/gcr-prompter
+Terminal=false
+Type=Application

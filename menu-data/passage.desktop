@@ -1,0 +1,14 @@
+# Forwarded to http://sf.net/support/tracker.php?aid=2672143
+[Desktop Entry]
+X-AppInstall-Package=passage
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Type=Application
+Name=Passage
+GenericName=Life game
+Comment=game about the passage through life
+Icon=passage
+Exec=passage
+Terminal=false
+Categories=Game;AdventureGame;

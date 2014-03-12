@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=angband
+X-AppInstall-Popcon=36
+X-AppInstall-Section=main
+
+Name=Angband (GTK)
+Type=Application
+Comment=A roguelike dungeon exploration game based on the books of J.R.R.Tolkien
+Exec=angband -mgtk
+Icon=/usr/share/angband/xtra/icon/att-32.png
+Categories=Game;RolePlaying;

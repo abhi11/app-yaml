@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=love
+X-AppInstall-Popcon=169
+X-AppInstall-Section=main
+
+Name=LÖVE
+MimeType=application/x-love-game;
+Exec=/usr/bin/love
+Comment=Games development framework in lua
+Comment[es]=Entorno de desarrollo de videojuegos en lua
+Type=Application
+Categories=Development;Game;
+Terminal=false
+Icon=love-app

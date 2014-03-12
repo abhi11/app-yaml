@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-AppInstall-Package=qasconfig
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Type=Application
+Name=QasConfig
+GenericName=ALSA configuration
+GenericName[de]=ALSA-Konfiguration
+Exec=qasconfig
+Icon=qasconfig
+StartupNotify=false
+Terminal=false
+Categories=AudioVideo;Audio;Mixer
+Comment=ALSA configuration browser
+Comment[cs]=Prohlížeč nastavení ALSA
+Comment[de]=ALSA-Konfigurationsbetrachter
+Comment[ru]=Просмотрщик конфигурации звуковой системы ALSA
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

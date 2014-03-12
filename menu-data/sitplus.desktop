@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=sitplus
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Name=Sitplus
+GenericName=Sitplus ludic-therapeutic software
+Comment=Framework for ludic-therapeutic activities
+Name[es]=Sitplus
+GenericName[es]=Software lúdico-terapéutico Sitplus
+Comment[es]=Entorno de trabajo para actividades lúdico-terapéuticas
+Exec=sitplus
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;Accessibility;
+Icon=_usr_share_pixmaps_sitplus-32x32
+X-AppInstall-Architectures=amd64,armel,i386,ia64,mips,mipsel,powerpc,s390,sparc

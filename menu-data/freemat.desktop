@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=freemat
+X-AppInstall-Popcon=74
+X-AppInstall-Section=main
+
+Comment=A free environment for rapid engineering and scientific prototyping and data processing
+Exec=freemat
+GenericName=Scientific Software Package
+Icon=_usr_share_pixmaps_freemat_freemat
+Name=FreeMat
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Education;Science;Math;Engineering;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,sparc

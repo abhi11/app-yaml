@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=viewpdf.app
+X-AppInstall-Popcon=62
+X-AppInstall-Section=main
+
+Type=Application
+Categories=Office;Viewer;
+Name=ViewPDF
+Comment=PDF Reader for GNUstep
+Exec=ViewPDF
+MimeType=application/pdf;

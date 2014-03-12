@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=saods9
+X-AppInstall-Popcon=13
+X-AppInstall-Section=main
+
+Version=1.0
+Name=SAOImage DS9 
+GenericName=Image Viewer
+GenericName[en_GB]=Image Viewer
+Comment=Astronomical Data Visualization Application
+Comment[en_GB]=Astronomical Data Visualization Application
+Type=Application
+Exec=ds9 %F
+Icon=ds9
+Categories=Education;Science;Astronomy;

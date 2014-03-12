@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=musique
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Name=Musique
+Comment=Play your music collection
+GenericName=Music Player
+Exec=musique
+Terminal=false
+Type=Application
+Icon=musique
+Categories=Qt;Audio;Music;Player;AudioVideo;
+StartupNotify=true

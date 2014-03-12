@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xpra
+X-AppInstall-Popcon=72
+X-AppInstall-Section=main
+
+Name=Xpra Launcher
+Comment=Connect to an Xpra session
+Exec=xpra_launcher
+Icon=xpra
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Network
+MimeType=text/x-xpraconfig;

@@ -1,0 +1,15 @@
+# Forwarded to http://developer.berlios.de/patch/?func=detailpatch&patch_id=3143&group_id=1625
+[Desktop Entry]
+X-AppInstall-Package=dreamchess
+X-AppInstall-Popcon=51
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Dreamchess
+GenericName=Chess game
+GenericName[fr]=Jeu d'échec
+Comment=a 3D chess game
+Icon=dreamchess
+Exec=dreamchess
+Categories=Game;BoardGame;

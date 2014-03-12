@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=freemedforms-emr
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Categories=Education;Science;
+Name=FreeMedForms EMR
+GenericName=FreeMedForms EMR
+Comment=Open source EMR
+Comment[en]=Open source EMR
+Comment[fr]=Gestionnaire de dossiers patients open source
+Exec=freemedforms
+Icon=freemedforms
+
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

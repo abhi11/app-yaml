@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=remmina
+X-AppInstall-Popcon=3625
+X-AppInstall-Section=main
+
+Version=1.0
+Name=Remmina
+GenericName=Remote Desktop Client
+X-GNOME-FullName=Remmina Remote Desktop Client
+Comment=Connect to remote desktops
+Exec=remmina
+Icon=remmina
+Terminal=false
+Type=Application
+Actions=
+Categories=GTK;GNOME;X-GNOME-NetworkSettings;Network;

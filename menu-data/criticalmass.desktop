@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=criticalmass
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Name=Criticalmass
+Comment=Play a shoot-em-up a la galaxian
+Exec=critter
+Icon=critter
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;

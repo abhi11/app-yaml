@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=hamexam
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=hamexam
+GenericName=hamexam
+Comment=Ham Radio Examination trainer
+Exec=hamexam q
+Icon=hamexam
+Terminal=true
+Type=Application
+Categories=Education;HamRadio;

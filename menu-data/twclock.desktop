@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=twclock
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=twclock
+Name[en_US]=twclock
+Comment=World Clock and CW ID for Ham Radio Operators
+Comment[en_US]=World Clock and CW ID for Ham Radio Operators
+Exec=twclock
+Icon=twclock.png
+Terminal=false
+Type=Application
+Categories=Utility;HamRadio
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

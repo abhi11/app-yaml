@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=tcosmonitor
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Version=1.0
+Name=TcosMonitor
+Name[en_GB]=TcosMonitor
+Name[es]=TcosMonitor
+Comment=Thin client network monitor
+Comment[en_GB]=Thin client network monitor
+Comment[es]=Monitorizar una red de clientes ligeros
+Exec=/usr/bin/tcosmonitor $@
+Terminal=false
+Type=Application
+Icon=_usr_share_pixmaps_tcos-icon-32x32
+GenericName[es_ES]=TcosMonitor
+Categories=GNOME;Settings;System;DesktopSettings;Monitor

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=weboob-qt
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=QWebContentEdit
+Comment=Edit website contents
+Exec=qwebcontentedit
+Icon=qwebcontentedit
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;Qt;

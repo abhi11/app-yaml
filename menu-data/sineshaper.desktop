@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=sineshaper
+X-AppInstall-Popcon=9
+X-AppInstall-Section=main
+
+Type=Application
+Name=Sineshaper
+GenericName=Sineshaper
+Comment=Monophonic synth plugin with two oscillators and waveshapers
+Icon=sineshaper32x32
+Exec=sineshaper
+Terminal=false
+Categories=GNOME;AudioVideo;Audio;

@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=laditools
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=LADI Control Center
+Name[es]=Centro de control de LADI
+Type=Application
+Comment=Configure the LADI system
+Comment[es]=Configurar el sistema LADI
+Terminal=false
+Exec=ladi-control-center
+Icon=preferences-system
+Categories=GNOME;GTK;Settings;
+GenericName=LADI configuration
+GenericName[es]=Configuración de LADI
+GenericName[it]=Configurazione LADI

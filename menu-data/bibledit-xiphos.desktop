@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=bibledit-xiphos
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=Bibledit-Xiphos
+Comment=Bibledit Xiphos Interface
+Icon=bibledit-xiphos
+Exec=bibledit-xiphos
+Type=Application
+Categories=Office;
+

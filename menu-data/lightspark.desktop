@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=lightspark
+X-AppInstall-Popcon=26
+X-AppInstall-Section=main
+
+Name=Lightspark
+Comment=An alternative flash player
+Exec=lightspark
+Icon=lightspark
+Type=Application
+Categories=GNOME;GTK;AudioVideo;Video;Player;
+MimeType=application/x-shockwave-flash;
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,armhf,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390,s390x,sparc

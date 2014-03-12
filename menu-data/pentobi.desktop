@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=pentobi
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Name=Pentobi
+Comment=Computer program that plays the board game Blokus
+Comment[de]=Computerprogramm, das das Brettspiel Blokus spielt
+Exec=/usr/games/pentobi %f
+Icon=pentobi
+Terminal=false
+Type=Application
+Categories=Game;BoardGame;
+MimeType=application/x-blokus-sgf;

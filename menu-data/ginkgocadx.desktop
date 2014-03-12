@@ -1,0 +1,19 @@
+#====================================================
+# license: GPL v2 or later
+#====================================================
+
+[Desktop Entry]
+X-AppInstall-Package=ginkgocadx
+X-AppInstall-Popcon=35
+X-AppInstall-Section=main
+
+Type=Application
+Name=Ginkgo CADx
+GenericName=DICOM Viewer
+Comment=Medical Image (DICOM) Viewer
+Icon=ginkgocadx
+Exec=/usr/bin/ginkgocadx %F
+Terminal=false
+Categories=Office;MedicalSoftware;
+MimeType=application/dicom;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

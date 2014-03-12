@@ -1,0 +1,23 @@
+
+[Desktop Entry]
+X-AppInstall-Package=peg-solitaire
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Exec='/usr/games/peg-solitaire'
+GenericName=Peg-Solitaire
+GenericName[ca]=Solitari
+Icon=_usr_share_pixmaps_peg-solitaire
+MimeType=
+Name=Peg-Solitaire
+Name[ca]=Solitari
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Game;LogicGame;
+Name[ca_ES]=Solitari
+Name[es_ES]=Solitario

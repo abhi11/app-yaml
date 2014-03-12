@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=hasciicam
+X-AppInstall-Popcon=18
+X-AppInstall-Section=main
+
+Name=HasciiCam
+Type=Application
+GenericName=HasciiCam
+Comment=(h)ascii for the masses!
+Exec=hasciicam %U
+Icon=hasciicam.png
+Terminal=false
+Categories=AudioVideo;
+X-AppInstall-Package=hasciicam
+X-AppInstall-Popcon=18
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

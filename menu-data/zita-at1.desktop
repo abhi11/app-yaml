@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=zita-at1
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=AT1
+GenericName=JACK autotuner
+Comment=Correct the pitch of a voice singing out of tune
+Icon=
+Categories=AudioVideo;Audio;
+Exec=zita-at1
+Terminal=false

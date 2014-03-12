@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=mudita24
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Type=Application
+Name=Mudita24
+GenericName=ALSA GUI control tool for Envy24 (ice1712) soundcards
+Icon=mudita24
+Exec=mudita24
+Categories=AudioVideo;Audio;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

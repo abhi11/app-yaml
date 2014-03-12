@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=racket
+X-AppInstall-Popcon=34
+X-AppInstall-Section=main
+
+Name=DrRacket
+Comment=IDE for Racket
+Exec=drracket
+Terminal=false
+Type=Application
+Categories=Development;
+Icon=plt
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,armhf,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,s390,sparc

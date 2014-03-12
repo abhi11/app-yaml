@@ -1,0 +1,36 @@
+[Desktop Entry]
+X-AppInstall-Package=gobby-0.5
+X-AppInstall-Popcon=57
+X-AppInstall-Section=main
+
+Name=Gobby
+Name[de]=Gobby
+Name[el_GR]=Gobby
+Name[en_GB]=Gobby
+Name[fr]=Gobby
+Name[ja]=Gobby
+GenericName=Collaborative Editor
+GenericName[de]=Gemeinschaftlicher Editor
+GenericName[el_GR]=Συνεργατικός επεξεργαστής κειμένων
+GenericName[en_GB]=Collaborative Editor
+GenericName[fr]=Éditeur collaboratif
+GenericName[ja]=共同作業テキストエディタ
+X-GNOME-FullName=Gobby Collaborative Editor (0.5)
+X-GNOME-FullName[de]=Gobby Gemeinschaftlicher Editor (0.5)
+X-GNOME-FullName[el_GR]=Συνεργατικός επεξεργαστής κειμένων Gobby (0.5)
+X-GNOME-FullName[en_GB]=Gobby Collaborative Editor (0.5)
+X-GNOME-FullName[fr]=Éditeur collaboratif Gobby (0.5)
+X-GNOME-FullName[ja]=Gobby Collaborative Editor (0.5)
+Comment=Edit text files collaboratively
+Comment[de]=Textdateien gemeinsam bearbeiten
+Comment[el_GR]=Συνεργατική επεξεργασία αρχείων κειμένου
+Comment[en_GB]=Edit text files collaboratively
+Comment[fr]=Éditer des fichiers texte de manière collaborative
+Comment[ja]=テキストを共同作業で編集する
+Exec=gobby-0.5
+Terminal=false
+Type=Application
+Icon=gobby-0.5
+Categories=TextEditor;Network;
+StartupNotify=true
+MimeType=text/plain;

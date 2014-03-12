@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=instead
+X-AppInstall-Popcon=6
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Version=1.6.0
+Type=Application
+Name=INSTEAD
+Name[ru]=INSTEAD
+Name[uk]=INSTEAD
+Comment=Simple Text Adventures Interpreter
+Comment[ru]=Интерпретатор простых приключений
+Comment[uk]=Iнтерпретатор простих пригод
+Exec=/usr/games/sdl-instead
+Icon=sdl_instead.png
+Terminal=false
+Categories=Game;LogicGame;

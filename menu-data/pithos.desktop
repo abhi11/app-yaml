@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=pithos
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Name=Pithos
+Comment=Play music from Pandora Radio
+Categories=GNOME;AudioVideo;Player;
+Exec=pithos
+Icon=pithos
+Terminal=false
+Type=Application

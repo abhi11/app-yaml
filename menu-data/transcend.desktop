@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=transcend
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Type=Application
+Name=Transcend
+GenericName=shooter game
+Comment=retro-style, abstract 2D shooter
+Icon=transcend
+Exec=transcend
+Terminal=false
+Categories=Game;ActionGame;

@@ -1,0 +1,21 @@
+[Desktop Entry]
+X-AppInstall-Package=mumble
+X-AppInstall-Popcon=152
+X-AppInstall-Section=main
+
+Name=Mumble
+Name[fr]=Mumble
+Name[tr]=Mumble
+GenericName=Voice Chat
+GenericName[fr]=Chat vocal
+GenericName[tr]=Sesle Sohbet
+Comment=A low-latency, high quality voice chat program for gaming
+Comment[fr]=Un logiciel de chat vocal de haute qualité et de faible latence pour les jeux
+Comment[tr]=Oyunlar için yüksek kaliteli ve düşük gecikmeli sesle sohbet programı
+Exec=mumble
+Icon=mumble
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Network;Chat;Qt;
+Version=1.0

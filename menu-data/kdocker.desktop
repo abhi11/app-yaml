@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=kdocker
+X-AppInstall-Popcon=21
+X-AppInstall-Section=main
+
+Name=KDocker
+GenericName=Docking utility
+Comment=Docks any application into system tray
+Exec=kdocker
+Icon=kdocker
+Terminal=false
+Type=Application
+Categories=Utility;

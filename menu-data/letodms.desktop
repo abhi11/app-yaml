@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=letodms
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Version=1.0
+Name=LetoDMS
+GenericName=LetoDMS
+Comment=Open source Document Management System
+Comment[en]=Open source Document Management System
+Comment[es]=Sistema de gestión documental Open source
+Type=Application
+Exec=letodms
+Icon=logo_letodms_32x32.xpm
+Categories=Office;

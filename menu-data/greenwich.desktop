@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=greenwich
+X-AppInstall-Popcon=24
+X-AppInstall-Section=main
+
+Type=Application
+Name=Greenwich
+Exec=greenwich
+Icon=greenwich
+Categories=Network;Utility;GTK

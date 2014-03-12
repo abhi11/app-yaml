@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=bibledit-gtk
+X-AppInstall-Popcon=5
+X-AppInstall-Section=main
+
+Name=Bibledit-Gtk
+Comment=Bible Editor
+Icon=bibledit
+Exec=bibledit-gtk
+Type=Application
+Categories=Office;
+StartupNotify=true
+

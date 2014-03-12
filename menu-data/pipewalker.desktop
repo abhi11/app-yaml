@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=pipewalker
+X-AppInstall-Popcon=37
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=PipeWalker
+Comment=Connect all hosts to network!
+Comment[ru]=Объедините все компьютеры в сеть!
+Comment[fr]=Connectez tous les ordinateurs au réseau!
+Exec=pipewalker
+Categories=Game;LogicGame;
+Icon=pipewalker.xpm
+MimeType=

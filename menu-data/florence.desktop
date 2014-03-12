@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-AppInstall-Package=florence
+X-AppInstall-Popcon=29
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=Florence Virtual Keyboard
+Name[fr]=Clavier virtuel Florence
+Name[ru]=Виртуальная Клавиатура Florence
+Comment=Florence Virtual Keyboard
+Comment[fr]=Clavier virtuel Florence
+Comment[ru]=Виртуальная Клавиатура Florence
+Exec=florence
+Terminal=false
+Type=Application
+Icon=_usr_share_pixmaps_florence
+Categories=Application;Accessibility;
+

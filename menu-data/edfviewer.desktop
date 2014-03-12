@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=pymca
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=1.0
+Name=EDFviewer
+Name[en_GB]=EDFviewer
+GenericName=Display files in ESRF Data Format
+GenericName[en_GB]=Display files in ESRF Data Format
+Type=Application
+Exec=edfviewer
+Icon=_usr_share_pixmaps_pymca
+Terminal=false
+Categories=Science;Education;Physics;
+

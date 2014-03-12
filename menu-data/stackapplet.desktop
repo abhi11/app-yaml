@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-AppInstall-Package=stackapplet
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Name=StackApplet
+Comment=Launch the StackApplet indicator
+Exec=python /usr/share/stackapplet/stackapplet.py
+Icon=stackapplet
+Type=Application
+Categories=GNOME;GTK;Utility;

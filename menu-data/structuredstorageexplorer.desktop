@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=openmcdf
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Name=Structured Storage Explorer
+Comment=Structured Storage Explorer
+GenericName=StructuredStorageExplorer
+Exec=/usr/bin/structuredstorageexplorer
+Icon=structuredstorageexplorer
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Office;

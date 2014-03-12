@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=zaz
+X-AppInstall-Popcon=38
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Zaz
+Comment=Zaz ain't Z***
+Comment[ru]=Zaz не клон Z***
+Comment[tr]=Top Yok Etme Oyunu
+Exec=zaz
+Categories=Game;LogicGame;
+Icon=zaz
+MimeType=

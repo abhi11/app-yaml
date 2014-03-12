@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=stopmotion
+X-AppInstall-Popcon=174
+X-AppInstall-Section=main
+
+Name=Stopmotion
+Icon=stopmotion
+Comment=Program to create stop-motion animations
+Exec=/usr/bin/stopmotion
+Terminal=false
+Type=Application
+Categories=Application;Graphics;AudioVideo;Video;AudioVideoEditing;KDE;Qt
+MimeType=application/x-stopmotion
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

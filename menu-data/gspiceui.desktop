@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=gspiceui
+X-AppInstall-Popcon=81
+X-AppInstall-Section=main
+
+Version=1.0.00
+Name=GSpiceUI
+GenericName=GNU Spice GUI
+Comment=Graphical frontend to Spice simulators
+Exec=gspiceui
+Terminal=false
+Type=Application
+Icon=gspiceui-32x32.xpm
+StartupNotify=true
+Categories=Engineering;Electronics;
+

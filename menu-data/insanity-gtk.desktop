@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=insanity-tools
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Name=Insanity testing system
+Comment=Run automated tests
+StartupNotify=true
+Exec=insanity-gtk
+## Icon=
+Type=Application
+Categories=GTK;Development

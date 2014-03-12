@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=turtleart
+X-AppInstall-Popcon=82
+X-AppInstall-Section=main
+
+Name=TurtleArt
+Name[nb]=Skilpaddekunst
+GenericName=Sugar TurtleArt activity
+GenericName[nb]=Sugar Skilpaddekunst-aktivitet
+Exec=/usr/bin/turtleart
+Icon=turtleart
+Type=Application
+Comment=A Logo programming environment
+Comment[nb]=Et miljø for Logo-programmering
+Terminal=false
+StartupNotify=true
+Categories=Education;

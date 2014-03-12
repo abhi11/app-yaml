@@ -1,0 +1,26 @@
+[Desktop Entry]
+X-AppInstall-Package=nautilus-actions
+X-AppInstall-Popcon=1636
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Nautilus-Actions Configuration Tool
+Name[cs]=Nástroj nastavení Akce-Nautilus
+Name[de]=Einstellungen für Nautilus-Aktionen
+Name[es]=Herramienta de configuración de las acciones de Nautilus
+Name[fr]=Outil de configuration de Nautilus-Actions
+Name[it]=Strumento di configurazione delle azioni di Nautilus
+Name[sl]=Orodje nastavitev dejanj Nautilusa
+Name[sv]=Konfigurationsverktyg för Nautilus-åtgärder
+Comment=Configure items to be added to the Nautilus context menus
+Comment[cs]=Přidat položky, které budou přidány do kontextové nabídky aplikace Nautilus
+Comment[de]=Einträge konfigurieren, um sie zum Kontextmenü von Nautilus hinzuzufügen
+Comment[es]=Configure los elementos que van a ser añadidos a los menús contextuales de Nautilus
+Comment[fr]=Configurer les éléments à ajouter aux menus contextuels de Nautilus
+Comment[it]=Configura gli oggetti per aggiungerli al menù contestuale di Nautilus
+Comment[sl]=Nastavi predmete za dodajanje v vsebinski meni Nautilusa
+Exec=nautilus-actions-config-tool
+Icon=nautilus-actions
+Categories=System;FileTools;FileManager;
+StartupNotify=true

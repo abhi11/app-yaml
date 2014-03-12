@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-AppInstall-Package=tortoisehg
+X-AppInstall-Popcon=156
+X-AppInstall-Section=main
+
+Type=Application
+Name=TortoiseHG Workbench
+Icon=tortoisehg
+Exec=thg log
+Categories=Development;RevisionControl

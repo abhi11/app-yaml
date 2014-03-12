@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xaos
+X-AppInstall-Popcon=108
+X-AppInstall-Section=main
+
+Name=Xaos - Fractal Zoomer
+Comment=Fractal Generator
+Exec=/usr/bin/xaos -driver x11
+Icon=xaos.png
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Application;Graphics;
+StartupNotify=true

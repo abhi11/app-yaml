@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gmorgan
+X-AppInstall-Popcon=15
+X-AppInstall-Section=main
+
+Name=gmorgan
+Comment=MIDI rhythm station for ALSA
+Exec=/usr/bin/gmorgan
+#Icon=/usr/share/icons/gmorgan.png
+Terminal=false
+Type=Application
+Categories=Audio;Midi
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

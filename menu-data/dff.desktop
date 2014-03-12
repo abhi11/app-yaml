@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=dff
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Type=Application
+Name=DFF
+GenericName=Digital Forensics Framework
+Exec=dff -g
+Icon=dff
+Terminal=false
+Categories=Qt;Utility;
+
+X-AppInstall-Architectures=amd64,armel,armhf,i386,kfreebsd-amd64,kfreebsd-i386,mips,mipsel,powerpc,s390x

@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+X-AppInstall-Package=nautilus-compare
+X-AppInstall-Popcon=55
+X-AppInstall-Section=main
+
+Name=Nautilus Compare Extension Preferences
+Type=Application
+GenericName=Preferences for Nautilus Compare Extension
+Icon=gtk-preferences
+Categories=Settings;
+X-Ubuntu-Gettext-Domain=nautilus-compare
+Exec=nautilus-compare-preferences

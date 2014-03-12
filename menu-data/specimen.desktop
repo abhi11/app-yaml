@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=specimen
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Type=Application
+Name=Specimen
+GenericName=Specimen
+Comment=Sound Sampler
+Icon=specimen_32x32
+Exec=specimen
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;Music;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

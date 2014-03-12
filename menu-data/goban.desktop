@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+X-AppInstall-Package=goban-ss
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=Goban
+Exec=/usr/lib/xscreensaver/goban -root -screensaver
+Comment=Replays Go games
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
+OnlyShowIn=GNOME;

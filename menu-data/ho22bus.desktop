@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=ho22bus
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Name=Ho22bus
+Comment=Recite word easily
+Exec=ho22bus
+Terminal=false
+Icon=ho22bus.png
+StartupNotify=true
+Categories=Education;Languages;

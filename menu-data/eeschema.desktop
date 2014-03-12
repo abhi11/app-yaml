@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=kicad
+X-AppInstall-Popcon=183
+X-AppInstall-Section=main
+
+Categories=Development;Electronics
+Comment=Design an electronic schematic
+Comment[fr]=Dessiner des schémas électroniques
+Exec=eeschema
+GenericName=Electronic schematic design
+GenericName[fr]=Saisie de schéma électronique
+Icon=eeschema
+MimeType=application/x-kicad-schematic;
+Name=Eeschema
+Type=Application

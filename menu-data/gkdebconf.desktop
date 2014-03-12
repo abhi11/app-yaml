@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gkdebconf
+X-AppInstall-Popcon=53
+X-AppInstall-Section=main
+
+Name=GkDebconf
+Type=Application
+Categories=System;
+Encoding=UTF-8
+Comment=Helper to reconfigure packages
+Comment[pt_BR]=Interface para reconfigurar pacotes
+Icon=_usr_share_pixmaps_gkdebconf-icon
+Exec=gkdebconf
+Terminal=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=goldencheetah
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=GoldenCheetah
+Comment=Cycling Power Analysis Software.
+Exec=GoldenCheetah
+Icon=_usr_share_pixmaps_gc
+

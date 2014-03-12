@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=kicad
+X-AppInstall-Popcon=183
+X-AppInstall-Section=main
+
+Categories=Development;Electronics
+Comment=Design a printed circuit board
+Comment[fr]=Concevoir un circuit imprimé
+Exec=kicad
+GenericName=EDA Suite
+GenericName[fr]=Suite logicielle de conception électronique
+Icon=kicad
+MimeType=application/x-kicad-project;
+Name=KiCad
+Type=Application

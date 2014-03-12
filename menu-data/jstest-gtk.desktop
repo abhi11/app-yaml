@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=jstest-gtk
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Name=jstest-gtk
+Comment=Joystick testing and configuration tool
+Comment[es]=Herramienta de comprobación y configuración de joysticks
+Exec=jstest-gtk
+Terminal=false
+Type=Application
+Icon=jstest-gtk.png
+Categories=GTK;System;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

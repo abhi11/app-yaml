@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=l2tp-ipsec-vpn
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Name=L2TP Ipsec VPN Manager
+Exec=L2tpIPsecVpn startConnectionEditor
+Comment=Manage and change your L2TP IPsec VPN connection settings
+Icon=_usr_share_L2tpIPsecVpn_logo
+Type=Application
+Terminal=false
+StartupNotify=false
+Categories=GNOME;GTK;Settings;X-SuSE-ControlCenter-System;X-GNOME-NetworkSettings;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=qshutdown
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=qshutdown
+Name[de_DE]=qshutdown
+Exec=qshutdown
+Terminal=false
+Type=Application
+Icon=red_glasses
+Categories=Utility;

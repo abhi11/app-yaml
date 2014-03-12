@@ -1,0 +1,36 @@
+[Desktop Entry]
+X-AppInstall-Package=gnac
+X-AppInstall-Popcon=26
+X-AppInstall-Section=main
+
+Name=Gnac
+Comment=Audio converter for GNOME
+Comment[cs]=Převodník zvukových formátů pro GNOME
+Comment[da]=Lydomdannelse til GNOME
+Comment[de]=Audio-Umwandler für GNOME
+Comment[en_GB]=Audio converter for GNOME
+Comment[es]=Conversor de sonido para GNOME
+Comment[fr]=Convertisseur audio pour GNOME
+Comment[gl]=Un conversor multimedia para o Escritorio GNOME
+Comment[hu]=Hangátalakító a GNOME asztali környezethez
+Comment[it]=Un convertitore audio per GNOME
+Comment[lt]=GNOME garso konvertavimo įrankis
+Comment[pl]=Konwerter plików dźwiękowych dla GNOME
+Comment[pt_BR]=Conversor de áudio para o GNOME
+Comment[ro]=Convertor de fișiere audio pentru GNOME
+Comment[ru]=Аудиоконвертер для GNOME
+Comment[sl]=Pretvornik zvoka za GNOME
+Comment[sv]=Ljudkonverterare för GNOME
+Comment[te]=గ్నోమ్ కొరకు ఆడియో పరివర్తకం
+Comment[tr]=GNOME ses dönüştürücüsü
+Exec=gnac %F
+Icon=gnac
+MimeType=audio/mpeg;audio/mp4;audio/x-musepack;audio/ogg;audio/vnd.rn-realaudio;audio/x-speex;audio/x-ms-wma;audio/x-flac;audio/x-wav;audio/x-wavpack;audio/x-mpegurl;audio/x-scpls;application/xspf+xml;video/3gpp;video/x-ms-asf;video/x-msvideo;video/x-flv;video/x-matroska;video/mpeg;video/mp4;video/ogg;video/quicktime;application/vnd.rn-realmedia;application/x-shockwave-flash;video/x-ms-wmv;
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;AudioVideo;Audio;AudioVideoEditing;
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=gnac
+X-GNOME-Bugzilla-Component=general
+X-GNOME-Bugzilla-Version=0.2.4

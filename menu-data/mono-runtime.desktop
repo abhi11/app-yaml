@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=mono-runtime
+X-AppInstall-Popcon=25861
+X-AppInstall-Section=main
+
+Name=Mono Runtime
+Exec=mono
+Terminal=false
+Type=Application
+Icon=mono-runtime
+MimeType=application/x-ms-dos-executable;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,kfreebsd-amd64,kfreebsd-i386,powerpc,s390x,sparc

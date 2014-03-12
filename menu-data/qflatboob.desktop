@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=weboob-qt
+X-AppInstall-Popcon=11
+X-AppInstall-Section=main
+
+Name=QFlatBoob
+Comment=Search housings
+Exec=qflatboob
+Icon=qflatboob
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;Qt;

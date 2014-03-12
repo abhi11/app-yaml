@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xcrysden
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Version=1.0
+Name=XCrySDen
+Comment=Crystalline and Molecular Structure Visualisation Program
+Exec=xcrysden
+Icon=/usr/share/xcrysden/images/xcrysden.png
+Terminal=false
+Type=Application
+Categories=Science;Chemistry;Physics;Education;
+MimeType=chemical/x-xyz;chemical/x-pdb;chemical/x-gaussian-input;chemical/x-gaussian-log;chemical/x-gaussian-cube;

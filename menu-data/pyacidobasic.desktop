@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=python-acidobasic
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/bin/pyacidobasic
+Icon=_usr_share_pyacidobasic_icons_pyacidobasic
+Terminal=false
+Name=pyAcidoBasic
+GenericName=Acid/base titration
+GenericName[fr_FR]=Titrages acides/bases
+Comment=Interactive tool to simulate acido-basic titrations
+Comment[fr_FR]=Outil interactif pour simuler des titrages acido-basiques
+Categories=GNOME;Application;Video;Education;Science;

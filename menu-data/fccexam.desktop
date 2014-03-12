@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=fccexam
+X-AppInstall-Popcon=0
+X-AppInstall-Section=main
+
+Name=fccexam
+GenericName=fccexam
+Comment=FCC Radio Examination trainer
+Exec=fccexam q
+Icon=fccexam
+Terminal=true
+Type=Application
+Categories=Education;HamRadio;

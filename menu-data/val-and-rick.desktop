@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=val-and-rick
+X-AppInstall-Popcon=10
+X-AppInstall-Section=main
+
+Type=Application
+Name=Val & Rick
+GenericName=
+Comment=Kenta Cho's Val & Rick
+Icon=val-and-rick
+Exec=val-and-rick
+Terminal=false
+Categories=Game;ArcadeGame;

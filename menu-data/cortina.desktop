@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=cortina
+X-AppInstall-Popcon=26
+X-AppInstall-Section=main
+
+Name=Cortina
+Comment=Manage your desktop wallpapers
+Exec=/usr/bin/cortina
+Type=Application
+Icon=cortina
+StartupNotify=true
+Categories=Graphics
+X-Ubuntu-Gettext-Domain=cortina
+

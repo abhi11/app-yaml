@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=xpdf
+X-AppInstall-Popcon=5890
+X-AppInstall-Section=main
+
+Name=xpdf
+GenericName=PDF viewer
+Comment=View PDF files
+Exec=xpdf
+Icon=xpdf
+Terminal=false
+Type=Application
+MimeType=application/pdf;
+Categories=Viewer;Graphics;

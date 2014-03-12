@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=mat
+X-AppInstall-Popcon=7
+X-AppInstall-Section=main
+
+Name=Metadata Anonymisation Toolkit
+GenericName=Metadata Anonymisation Toolkit
+Version=1.0
+Type=Application
+Exec=mat-gui
+Terminal=false
+Categories=Application;Utility;Security
+Icon=logo.png

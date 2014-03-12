@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=nethack-x11
+X-AppInstall-Popcon=47
+X-AppInstall-Section=main
+
+Type=Application
+Encoding=UTF-8
+Name=X NetHack
+GenericName=NetHack (X interface)
+Comment=
+Icon=nethack
+Exec=/usr/games/xnethack
+Terminal=false
+Categories=Application;Game;AdventureGame;
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

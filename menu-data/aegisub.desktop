@@ -1,0 +1,17 @@
+[Desktop Entry]
+X-AppInstall-Package=aegisub
+X-AppInstall-Popcon=39
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Aegisub
+GenericName=Subtitle Editor
+Comment=Create and edit subtitles for film and videos.
+Exec=aegisub-2.1 %f
+Icon=aegisub
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;
+MimeType=application/x-srt;text/plain;text/x-ass;text/x-microdvd;text/x-ssa;
+StartupNotify=true
+X-AppInstall-Architectures=amd64,armel,armhf,i386,ia64,mips,mipsel,powerpc,s390,s390x,sparc

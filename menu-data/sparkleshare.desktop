@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=sparkleshare
+X-AppInstall-Popcon=64
+X-AppInstall-Section=main
+
+Type=Application
+Name=SparkleShare
+Exec=sparkleshare start
+Icon=folder-sparkleshare
+Terminal=false
+X-GNOME-Autostart-enabled=true
+Categories=Network;

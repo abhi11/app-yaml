@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=trophy
+X-AppInstall-Popcon=14
+X-AppInstall-Section=main
+
+Version=1.0
+Type=Application
+Name=Trophy
+GenericName=Racing Game
+Comment=2D car racing game with power-ups
+Icon=trophy
+Exec=trophy
+Categories=Game;ArcadeGame;

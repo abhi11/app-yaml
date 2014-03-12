@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=volview
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Version=3.4.0
+Name=VolView 3.4
+GenericName=Advanced Volume Visualization Tool
+Comment=VolView allows volume viewing of image data sets
+Type=Application
+Terminal=false
+Icon=volview
+MimeType=application/x-volview;
+Categories=Education;Math;Science;
+Exec=volview

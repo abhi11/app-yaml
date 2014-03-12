@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=wmitime
+X-AppInstall-Popcon=19
+X-AppInstall-Section=main
+
+Type=Application
+Name=Wmitime
+GenericName=
+Comment=
+Icon=
+Exec=/usr/bin/wmitime
+Terminal=false
+Categories=Utility;Clock

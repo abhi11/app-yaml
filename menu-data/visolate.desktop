@@ -1,0 +1,12 @@
+[Desktop Entry]
+X-AppInstall-Package=visolate
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Name=Visolate
+GenericName=PCB CNC converter
+Exec=visolate
+Terminal=false
+Type=Application
+Categories=Graphics;Electronics;Engineering
+Icon=visolate

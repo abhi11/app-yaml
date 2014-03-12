@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=openwalnut-qt4
+X-AppInstall-Popcon=1
+X-AppInstall-Section=main
+
+Categories=Education;Science;
+Exec=/usr/bin/openwalnut
+Name=OpenWalnut
+Icon=openwalnut.png
+X-KDE-StartupNotify=true
+Terminal=false
+Type=Application
+

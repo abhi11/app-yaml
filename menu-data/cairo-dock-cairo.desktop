@@ -1,0 +1,22 @@
+
+[Desktop Entry]
+X-AppInstall-Package=cairo-dock-core
+X-AppInstall-Popcon=590
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Type=Application
+Exec=cairo-dock -c
+Icon=cairo-dock
+Terminal=false
+
+Comment=A light and eye-candy dock and desklets for your desktop.
+Comment[fr]=Un dock et des desklets légers et sexy pour votre bureau.
+
+Name=Cairo-Dock (no OpenGL)
+Name[fr]=Cairo-Dock (sans OpenGL)
+
+GenericName=Multi-purpose Dock and Desklets
+GenericName[fr]=Dock et Desklets multi-usage
+
+Categories=System;

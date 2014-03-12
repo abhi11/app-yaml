@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=tumiki-fighters
+X-AppInstall-Popcon=12
+X-AppInstall-Section=main
+
+Type=Application
+Name=Tumiki Fighters
+GenericName=
+Comment=Kenta Cho's Tumiki Fighters
+Icon=tumiki-fighters
+Exec=tumiki-fighters
+Terminal=false
+Categories=Game;ArcadeGame;

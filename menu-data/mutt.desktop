@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=mutt
+X-AppInstall-Popcon=34260
+X-AppInstall-Section=main
+
+Categories=Office;Network;Email
+Comment=Simple text-based Mail User Agent
+Exec=mutt
+Icon=mutt
+Name=mutt
+MimeType=x-scheme-handler/mailto
+Terminal=true
+Type=Application

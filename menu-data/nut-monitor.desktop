@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=nut-monitor
+X-AppInstall-Popcon=4
+X-AppInstall-Section=main
+
+Name=NUT Monitor
+Name[fr]=Moniteur NUT
+Comment=Network UPS Tools GUI client
+Comment[fr]=Client graphique pour NUT (Network UPS Tools)
+Categories=Application;Network;
+Encoding=UTF-8
+Exec=NUT-Monitor
+Icon=nut-monitor.png
+Terminal=false
+Type=Application

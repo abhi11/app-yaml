@@ -1,0 +1,16 @@
+[Desktop Entry]
+X-AppInstall-Package=qtikz
+X-AppInstall-Popcon=67
+X-AppInstall-Section=main
+
+Type=Application
+Name=QTikZ
+Exec=qtikz
+Icon=_usr_share_qtikz_qtikz-128
+Terminal=false
+MimeType=text/x-pgf;text/x-tex;
+Categories=Qt;Office;
+GenericName=TikZ editor
+GenericName[fr]=Éditeur TikZ
+Comment=Program for creating TikZ (from the LaTeX pgf package) diagrams
+Comment[fr]=Programme pour créer des diagrammes TikZ (du paquet LaTeX pgf)

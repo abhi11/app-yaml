@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=imagevis3d
+X-AppInstall-Popcon=8
+X-AppInstall-Section=main
+
+Type=Application
+Terminal=false
+Version=2.0.1
+Name=ImageVis3D
+GenericName=Data Viewer
+Comment=Desktop volume rendering application for large data
+Exec=imagevis3d &
+Categories=Education;Science;DataVisualization;ImageProcessing;MedicalSoftware
+Icon=imagevis3d
+MimeType=application/x-imagevis3d;

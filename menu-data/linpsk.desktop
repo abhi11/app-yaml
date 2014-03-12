@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=linpsk
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Name=Linpsk
+GenericName=Amateur Radio Digital Modem
+Comment=Amateur Radio Sound Card Communications
+Exec=linpsk
+Icon=linpsk
+Terminal=false
+Type=Application
+Categories=Network;HamRadio;

@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=gjacktransport
+X-AppInstall-Popcon=2
+X-AppInstall-Section=main
+
+Type=Application
+Name=G. JACK Transport
+GenericName=JACK transport control tool
+Comment=Access JACK transport mechanism via a dynamic graphical slider. 
+Icon=gjacktransport
+Exec=gjacktransport
+Terminal=false
+Categories=AudioVideo;

@@ -1,0 +1,15 @@
+[Desktop Entry]
+X-AppInstall-Package=hydra-gtk
+X-AppInstall-Popcon=20
+X-AppInstall-Section=main
+
+Type=Application
+Version=1.0
+Name=XHydra
+GenericName[en_GB]=Network security auditor
+Comment=A fast network logon cracker
+Exec=xhydra %F
+Icon=xhydra
+Categories=Network;Security;
+Terminal=false
+StartupNotify=true

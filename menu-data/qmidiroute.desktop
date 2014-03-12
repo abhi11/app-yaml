@@ -1,0 +1,13 @@
+[Desktop Entry]
+X-AppInstall-Package=qmidiroute
+X-AppInstall-Popcon=3
+X-AppInstall-Section=main
+
+Type=Application
+Name=qmidiroute
+GenericName=qmidiroute
+Comment=Midi Router
+Icon=qmidiroute_32x32
+Exec=qmidiroute
+Terminal=false
+Categories=AudioVideo;AudioVideoEditing;Music;

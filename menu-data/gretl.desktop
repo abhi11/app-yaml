@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-AppInstall-Package=gretl
+X-AppInstall-Popcon=28
+X-AppInstall-Section=main
+
+Encoding=UTF-8
+Name=gretl
+Comment=Econometrics program
+Exec=/usr/bin/gretl %f
+Icon=_usr_share_pixmaps_gretl
+Terminal=0
+Type=Application
+Categories=Application;Science;Education;Econometrics;
+
