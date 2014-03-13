@@ -1,19 +1,39 @@
 #!/usr/bin/python
 #Reads the .desktop files and converts into an YAML equivalent
 
-import sys, glob, textwrap,yaml
-from collections import OrderedDict
-import fileinput
+import sys, glob, yaml
+
+def notcomment(line):
+        line = line.strip()
+        try:
+                if line[0]=="#":
+                        return None
+                else:
+                        #when there's a comment inline
+                        if "#" in line:
+                                line = line[0:line.find("#")]
+                        return line
+        except:
+                return None
 
 def read_desktop(fname):
         '''Convert a .desktop file into a dict'''
+        contents = {}
         fobj = open(fname)
-        #if oreder is important we must use this or some other approach to keep the dict ordered
-        contents = OrderedDict([k.strip().split("=", 1) for k in fobj if "=" in k and k[0] != "#" ])    
+        for line in fobj:
+                #first check if line is a comment
+                line = notcomment(line)
+                if line:
+                        #if order is important we have to use some approach to keep the dict ordered using ordererd dict is not a good idea
+                        tray = line.split("=",1)
+                        try:
+                                contents[tray[0].strip()] = tray[1].strip()
+                        except:
+                                pass
+        #print contents
         fobj.close()
         return contents
 
-files = {}
 i=0
 ofile = open("Components.yml","w")
 
@@ -26,8 +46,8 @@ for filename in glob.glob("menu-data/*.desktop"):
         #        break
 
         data = yaml.dump(dic,default_flow_style=False,explicit_start=True)
-        data = data.replace("--- !!python/object/apply:collections.OrderedDict","---")
+        #data = data.replace("--- !!python/object/apply:collections.OrderedDict","---")
         ofile.write(data)
-
+        ofile.write("\n")
 ofile.close
 
