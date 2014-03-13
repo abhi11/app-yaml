@@ -1,7 +1,7 @@
 [Desktop Entry]
 X-AppInstall-Package=python-web2py
 X-AppInstall-Popcon=6
-X-AppInstall-Section=main
+#X-AppInstall-Section=main
 
 Encoding=UTF-8
 Name=web2py

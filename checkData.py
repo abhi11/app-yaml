@@ -1,19 +1,5 @@
 #!/usr/bin/python
-#
-# Copyright (C) 2010, 2012 Julian Andres Klode <jak@jak-linux.org>
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#Reads the .desktop files and converts into an YAML equivalent
 
 import sys, glob, textwrap,yaml
 from collections import OrderedDict
@@ -23,7 +9,7 @@ def read_desktop(fname):
         '''Convert a .desktop file into a dict'''
         fobj = open(fname)
         #if oreder is important we must use this or some other approach to keep the dict ordered
-        contents = OrderedDict([k.strip().split("=", 1) for k in fobj if "=" in k])    
+        contents = OrderedDict([k.strip().split("=", 1) for k in fobj if "=" in k and k[0] != "#" ])    
         fobj.close()
         return contents
 
